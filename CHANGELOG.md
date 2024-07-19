@@ -1,4 +1,16 @@
 # 更新日志
+## 2024-07-19
+- `xiaomi-wear` 新增 小米手环 9, Xiaomi Watch S4 Sport。
+## 2024-07-18
+- `nubia` 新增 努比亚 Z60S Pro。
+## 2024-07-16
+- `honor_cn` 新增 荣耀 X60i。
+- `meizu` 新增 魅蓝 20。
+## 2024-07-15
+- `letv` 新增 Letv S3 Pro。
+- `vivo_cn` 新增 vivo Y37。
+## 2024-07-14
+- `samsung_cn` 新增 Galaxy Z Fold6, Flip6, Watch7, Watch Ultra。
 ## 2024-07-12
 - `honor_cn` 新增 荣耀 Magic V3, Vs3, MagicPad 2, MagicBook Art 14。
 ## 2024-07-11
