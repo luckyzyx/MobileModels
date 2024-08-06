@@ -1,4 +1,18 @@
 # 更新日志
+## 2024-08-06
+- `huawei_cn` 新增 HUAWEI MatePad Pro 12.2, MatePad Air 12。
+- `xiaomi` 新增 Redmi Pad SE 8.7。
+## 2024-08-05
+- `zhixuan` 新增 Hi 畅享 70m。
+## 2024-08-02
+- `huawei_cn` 新增 HUAWEI MateBook GT 14。
+## 2024-07-29
+- `huawei_cn` 新增 nova Flip；增补部分代号。
+- `meizu` 新增 魅族 Note 21 (海外), MBLU。
+## 2024-07-27
+- `lenovo` 新增 联想小新 Pad Pro 12.7 2025。
+## 2024-07-26
+- `huawei_cn` 新增 华为智慧屏 S5 Pro。
 ## 2024-07-21
 - `huawei_cn` 新增 HUAWEI MatePad 11.5S 标准版。
 ## 2024-07-19

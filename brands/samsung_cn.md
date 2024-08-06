@@ -400,7 +400,7 @@
 
 `SM-F7310`: Galaxy Z Flip5
 
-**Galaxy Z Flip5 (`b6q`):**
+**Galaxy Z Flip6 (`b6q`):**
 
 `SM-F7410`: Galaxy Z Flip6
 
@@ -920,11 +920,11 @@
 
 **Galaxy Tab S9 FE+ (`gts9fepwifi`):**
 
-`SM-X610`: Galaxy Tab S9 FE WLAN
+`SM-X610`: Galaxy Tab S9 FE+ WLAN
 
 **Galaxy Tab S9 FE+ (`gts9fep`):**
 
-`SM-X616C`: Galaxy Tab S9 FE 5G
+`SM-X616C`: Galaxy Tab S9 FE+ 5G
 
 ## Galaxy Tab A 系列
 

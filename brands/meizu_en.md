@@ -313,6 +313,14 @@
 
 `M923Q`: MEIZU Note 9 China
 
+**MEIZU Note 21 (`m2411`):**
+
+`M411H` `M411L`: MEIZU Note 21 Global
+
+**MEIZU Note 21 Pro (`m2412`):**
+
+`M412H`: MEIZU Note 21 Pro Global
+
 **MEIZU M3E (`a02`):**
 
 `A680H`: MEIZU M3E Global
@@ -459,17 +467,21 @@
 
 `M918H`: MEIZU M10 Global
 
-**mblu 10 (`m2110`):**
+**mblu 10 (`m2112`):**
 
-`M2110`: mblu 10
+`M2112`: mblu 10
 
 **mblu 10s (`m2111`):**
 
 `M2111`: mblu 10s
 
-**mblu 20 (`m2421`):**
+**MEIZU M20 (`m2421`):**
 
-`M421Q`: mblu 20
+`M421Q`: MEIZU M20
+
+**MEIZU MBLU (`m2410`):**
+
+`M410H`: MEIZU MBLU Global
 
 **MEIZU M3 Max (`s25`):**
 

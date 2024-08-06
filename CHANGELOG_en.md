@@ -1,6 +1,17 @@
 # CHANGELOG
+## 2024-08-06
+- `xiaomi_en` Add Redmi Pad SE 8.7.
+## 2024-07-31
+- `nothing` Add Nothing Phone (2a) Plus.
+- `vivo_global_en` Add several new models.
+## 2024-07-30
+- `realme_global_en` Add realme 13 Pro, realme Narzo N6* series.
+## 2024-07-29
+- `meizu_en` Add MEIZU Note 21, MEIZU MBLU.
+## 2024-07-23
+- `vivo_global_en` Add vivo T3 Pro, iQOO Z9 Pro.
 ## 2024-07-16
-- `meizu_en` Add mblu 20.
+- `meizu_en` Add MEIZU M20.
 ## 2024-07-14
 - `samsung_global_en` Add Galaxy Z Fold6, Flip6.
 ## 2024-07-05

@@ -261,6 +261,10 @@
 
 `V2338`: vivo T3x 5G
 
+**vivo T3:**
+
+`V2404`: vivo T3 Pro 5G
+
 **vivo T3 Lite:**
 
 `V2356`: vivo T3 Lite 5G
@@ -304,6 +308,10 @@
 **vivo Y03:**
 
 `V2332` `V2406`: vivo Y03
+
+**vivo Y03t:**
+
+`V2344` `V2409`: vivo Y03t
 
 **vivo Y11s:**
 
@@ -365,9 +373,17 @@
 
 `V2410`: vivo Y18s
 
+**vivo Y18t:**
+
+`V2408`: vivo Y18t
+
 **vivo Y18e:**
 
 `V2350`: vivo Y18e
+
+**vivo Y18i:**
+
+`V2414`: vivo Y18i
 
 **vivo Y19:**
 
@@ -688,6 +704,10 @@
 **iQOO Z9x:**
 
 `I2219`: iQOO Z9x 5G
+
+**iQOO Z9 Pro:**
+
+`I2305`: iQOO Z9 Pro 5G
 
 **iQOO Z9 Lite:**
 
