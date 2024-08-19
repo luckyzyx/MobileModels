@@ -1,4 +1,14 @@
 # 更新日志
+## 2024-08-16
+- `honor_cn` 增补部分平板型号。
+- `vivo_cn` 新增 Y300 Pro, Y100+。
+- `xiaomi` 新增 POCO Pad 5G。
+## 2024-08-14
+- `google` 新增 Pixel 9 系列。
+## 2024-08-09
+- `coolpad` 新增 酷派 Y70 Lite。
+## 2024-08-07
+- `zte` 新增 中兴 V80。
 ## 2024-08-06
 - `huawei_cn` 新增 HUAWEI MatePad Pro 12.2, MatePad Air 12。
 - `xiaomi` 新增 Redmi Pad SE 8.7。
