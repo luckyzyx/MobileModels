@@ -250,6 +250,10 @@
 
 `M468H`: 魅族 21 Note 国际版
 
+**魅族 Lucky 08 (`m2431`):**
+
+`M431Q`: 魅族 Lucky 08 公开版
+
 **魅族 X8 (`m1852`):**
 
 `M852Q`: 魅族 X8 公开版
@@ -482,13 +486,13 @@
 
 `M2111`: 魅蓝 10s
 
-**魅蓝 20 (`m2421`):**
+**魅蓝 20 / 魅族 M20 (`m2421`):**
 
-`M421Q`: 魅蓝 20
+`M421Q`: 魅蓝 20 / 魅族 M20
 
-**魅族 MBLU (`m2410`):**
+**魅族 MBLU 21 (`m2416`):**
 
-`M410H`: 魅族 MBLU 国际版
+`M416L`: 魅族 MBLU 21
 
 **魅蓝 Max (`s25`):**
 
@@ -536,8 +540,24 @@
 
 `M710H`: 魅族 M5c 国际版
 
+## 领克手机
+
+**LYNK & CO Phone Note (`m2468`):**
+
+`M468Q`: LYNK & CO Phone Note
+
+**LYNK & CO Phone Pro (`m2481`):**
+
+`M481S`: LYNK & CO Phone Pro
+
 ## 极星手机
 
 **Polestar Phone (`m2481`):**
 
 `M481S`: Polestar Phone
+
+## 红旗手机
+
+**HongQi Phone (`m2481`):**
+
+`M481R`: HongQi Phone

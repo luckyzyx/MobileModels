@@ -14,7 +14,7 @@ Unlisted brands usually not include international models.
 
 | Name | Brand | Range |
 | :-: | :-: | :-: |
-| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch and Apple Watch |
+| [apple_all_en](brands/apple_all_en.md) | Apple | iPhone, iPad, iPod touch, Apple Watch, Apple TV and Apple Vision |
 | [blackshark_en](brands/blackshark_en.md) | Black Shark | All models |
 | [google](brands/google.md) | Google | Google Pixel phones, tablets & watch |
 | [honor_global_en](brands/honor_global_en.md) | HONOR | All international models |
@@ -39,15 +39,15 @@ Unlisted brands usually not include international models.
 - [CQCCMS](http://webdata.cqccms.com.cn/webdata/query/CCCCerti.do)
 - [MIIT](https://ythzxfw.miit.gov.cn/resultQuery)
 - [China Telecom Tianyi Devices](http://surfing.tydevice.com/)
+- [Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
 - [Wi-Fi Alliance](https://www.wi-fi.org)
 - [Bluetooth Launch Studio](https://launchstudio.bluetooth.com/Listings/Search)
 - [Xiaomi Firmware Updater](https://xiaomifirmwareupdater.com/)
 - [Huawei Open Source Release Center](https://consumer.huawei.com/en/opensource/)
 - [ReaMEIZU](https://reameizu.com/)
-- [The iPhone Wiki](https://www.theiphonewiki.com)
+- [The Apple Wiki](https://theapplewiki.com/)
 - [ipsw.me](https://ipsw.me)
 - [XDA Developers](https://www.xda-developers.com)
-- [Google Play Supported Devices](http://storage.googleapis.com/play_public/supported_devices.html)
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [XSMS IMEI Database](http://xsms.com.ua/phone/imei/all/1)
 

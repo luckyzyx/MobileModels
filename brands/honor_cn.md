@@ -106,6 +106,8 @@
 
 `FCP-AN10`: 荣耀 Magic V3
 
+`FCP-AN20`: 荣耀 Magic V3 双卫星版
+
 **荣耀 Magic Vs3:**
 
 `FLC-AN00`: 荣耀 Magic Vs3
@@ -667,6 +669,14 @@
 **荣耀 Play8T Pro (`Lily`):**
 
 `LLY-AN00`: 荣耀 Play8T Pro 5G
+
+**荣耀 Play9T:**
+
+`ALT-AN00`: 荣耀 Play9T 5G
+
+**荣耀 Play9C:**
+
+`JDY-AN00`: 荣耀 Play9C 5G
 
 ## 荣耀 Note 系列
 
@@ -1397,6 +1407,12 @@
 `BRI-76`: 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
 
 `BRI-721`: 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
+
+**荣耀笔记本 X16 2025:**
+
+`BRG-565`: 荣耀笔记本 X16 2025 i5 (16GB+512GB)
+
+`BRG-561`: 荣耀笔记本 X16 2025 i5 (16GB+1TB)
 
 **荣耀 MagicBook Z3 14 2023:**
 

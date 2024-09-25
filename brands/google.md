@@ -239,10 +239,28 @@
 
 `GBZ4S`: Pixel Watch LTE (Global)
 
-**Pixel Watch 2 (`eos`):**
+**Pixel Watch 2 (`aurora`):**
 
 `G4TSL`: Pixel Watch 2 Bluetooth & Wi-Fi
+
+**Pixel Watch 2 (`eos`):**
 
 `GD2WG`: Pixel Watch 2 LTE (US)
 
 `GC3G8`: Pixel Watch 2 LTE (Global)
+
+**Pixel Watch 3 (`helios`):**
+
+`GG3HH`: Pixel Watch 3 Bluetooth & Wi-Fi (41mm)
+
+**Pixel Watch 3 (`selene`):**
+
+`GBDU9`: Pixel Watch 3 LTE (41mm)
+
+**Pixel Watch 3 (`sol`):**
+
+`GGE4J`: Pixel Watch 3 Bluetooth & Wi-Fi (45mm)
+
+**Pixel Watch 3 (`luna`):**
+
+`GRY0E`: Pixel Watch 3 LTE (45mm)

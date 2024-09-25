@@ -1,4 +1,24 @@
 # CHANGELOG
+## 2024-09-23
+- `oneplus_en` Add OnePlus 13.
+- `samsung_global_en` Add Galaxy F05, M05, M55s.
+## 2024-09-20
+- `apple_en` Add iPhone 16, Apple Watch Series 10.
+- `huawei_global_en` Add HUAWEI MatePad Pro 12.2, MatePad 12 X.
+## 2024-09-18
+- `mitv_global_en` Add several Indian models.
+- `xiaomi_en` Add Redmi 14R 5G.
+## 2024-09-11
+- `realme_global_en` Add realme NARZO 70 Turbo 5G.
+## 2024-09-10
+- `apple_en` Add Apple Vision Pro, Apple TV.
+## 2024-09-07
+- `google` Add Pixel Watch 3.
+- `honor_global_en` Add HONOR Magic V3, HONOR MagicPad2.
+- `vivo_global_en` Add several new models.
+## 2024-09-05
+- `meizu_en` Add LYNK & CO Phone.
+- `xiaomi_en` Add Redmi A3 Pro, Redmi 14C.
 ## 2024-08-29
 - `realme_global_en` Add realme 13 & 13+.
 ## 2024-08-26

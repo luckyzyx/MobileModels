@@ -1,6 +1,6 @@
 # vivo 手机型号汇总
 
-- 汇总范围: 2018 年起新型号命名方式的机型
+- 汇总范围: 2018 年起新型号命名方式的国行机型
 - codename: ✅
 - 是否包含海外机型: [单独汇总 (英文)](/brands/vivo_global_en.md)
 
@@ -1023,6 +1023,10 @@
 **iQOO Z9 Turbo (`PD2352`):**
 
 `V2352A`: iQOO Z9 Turbo
+
+**iQOO Z9 Turbo+ (`PD2417`):**
+
+`V2417A`: iQOO Z9 Turbo+
 
 **iQOO Z9x (`PD2353`):**
 

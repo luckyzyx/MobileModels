@@ -1,4 +1,33 @@
 # 更新日志
+## 2024-09-24
+- `honor_cn` 新增 荣耀笔记本 X16 2025。
+- `huawei_cn` 新增 华为智慧屏 V5 Max。
+## 2024-09-23
+- `honor_cn` 新增 荣耀 Play9C。
+- `meizu` 新增 红旗手机, 魅族 Lucky 08。
+- `oneplus` 新增 OnePlus 13。
+- `vivo_cn` 新增 iQOO Z9 Turbo+。
+## 2024-09-20
+- `apple` 新增 iPhone 16, Apple Watch Series 10。
+- `huawei_cn` 新增 HUAWEI WATCH GT 5, WATCH D2。
+## 2024-09-18
+- `xiaomi` 新增 Redmi 14R 5G。
+## 2024-09-11
+- `realme_cn` 新增 真我 13。
+## 2024-09-10
+- `apple` 新增 Apple Vision Pro, Apple TV。
+- `huawei_cn` 新增 HUAWEI Mate XT 非凡大师。
+## 2024-09-07
+- `mitv_cn` 新增 Redmi 智能电视 A Pro, Redmi MAX 85 2025。
+## 2024-09-05
+- `honor_cn` 新增 荣耀 Magic V3 双卫星版。
+- `meizu` 新增 LYNK & CO Phone。
+- `nubia` 新增 红魔电竞平板 Pro, 红魔平板 3D 探索版。
+- `xiaomi` 新增 Redmi 14C, Redmi A3 Pro。
+## 2024-09-02
+- `honor_cn` 新增 荣耀 Play9T。
+## 2024-09-01
+- `zhixuan` 新增 Hi 畅享 70。
 ## 2024-08-29
 - `motorola` 新增 moto S50。
 ## 2024-08-28
