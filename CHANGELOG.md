@@ -1,4 +1,13 @@
 # 更新日志
+## 2024-09-29
+- `lenovo` 新增 联想拯救者 Y700 (2024)。
+## 2024-09-28
+- `honor_cn` 新增 荣耀 MagicBook Art 14 骁龙版。
+## 2024-09-27
+- `oppo_cn` 新增 Find X8 系列, OPPO Pad 3 Pro, K12 Plus。
+## 2024-09-26
+- `honor_cn` 增补部分产品代号。
+- `xiaomi` 新增 Redmi Note 14 系列。
 ## 2024-09-24
 - `honor_cn` 新增 荣耀笔记本 X16 2025。
 - `huawei_cn` 新增 华为智慧屏 V5 Max。
