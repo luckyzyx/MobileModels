@@ -1,4 +1,23 @@
 # 更新日志
+## 2024-10-23
+- `mitv_cn` 新增 Redmi 智能电视 X 2025。
+## 2024-10-22
+- `huawei_cn` 新增 nova 13, HUAWEI WATCH Ultimate 非凡探索。
+## 2024-10-21
+- `apple` 新增 iPad mini (A17 Pro)。
+## 2024-10-18
+- `zte` 新增 中兴畅行 60 Plus。
+## 2024-10-16
+- `honor_cn` 新增 荣耀 X60, 荣耀平板 GT Pro & X9。
+## 2024-10-14
+- `mitv_cn` 新增 小米电视 S Pro Mini LED 2025。
+- `motorola` 新增 moto g55。
+- `vivo_cn` 新增 vivo X200 系列, iQOO 13。
+## 2024-10-12
+- `oppo_cn` 新增 OPPO A3i。
+- `zte` 新增 中兴远航 61。
+## 2024-10-11
+- `samsung_cn` 新增 三星 Galaxy Tab S10+/Ultra。
 ## 2024-09-29
 - `lenovo` 新增 联想拯救者 Y700 (2024)。
 ## 2024-09-28

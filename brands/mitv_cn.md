@@ -342,17 +342,17 @@
 
 `L55M9-S`: 小米电视 S55
 
-`L55MA-SPL`: 小米电视 S55 Mini LED
-
 `L65M9-S`: 小米电视 S65
-
-`L65MA-SPL`: 小米电视 S65 Mini LED
 
 `L75M9-S`: 小米电视 S75
 
-`L75MA-SPL`: 小米电视 S75 Mini LED
-
 `L85MA-S`: 小米电视 S85
+
+`L55MA-SPL`: 小米电视 S55 Mini LED
+
+`L65MA-SPL`: 小米电视 S65 Mini LED
+
+`L75MA-SPL`: 小米电视 S75 Mini LED
 
 `L85MA-SPL`: 小米电视 S85 Mini LED
 
@@ -365,6 +365,16 @@
 `L85MA-SM`: 小米电视 S Pro 85 Mini LED
 
 `L100MA-SP`: 小米电视 S Pro 100
+
+**小米电视 S Pro 2025 款:**
+
+`L65MB-SP`: 小米电视 S Pro 65 Mini LED 2025 款
+
+`L75MB-SP`: 小米电视 S Pro 75 Mini LED 2025 款
+
+`L85MB-SP`: 小米电视 S Pro 85 Mini LED 2025 款
+
+`L100MB-SP`: 小米电视 S Pro 100 Mini LED 2025 款
 
 **小米壁画电视:**
 
@@ -484,6 +494,8 @@
 
 `L65M5-RK`: Redmi 智能电视 X65 (2020)
 
+**Redmi 智能电视 X 2022 款:**
+
 `L50R8-X`: Redmi 智能电视 X50 2022 款
 
 `L55R8-X`: Redmi 智能电视 X55 2022 款
@@ -519,6 +531,16 @@
 `L65MA-XT`: Redmi AI 智能电视 X65 2024 款
 
 `L75MA-XT`: Redmi AI 智能电视 X75 2024 款
+
+**Redmi 智能电视 X 2025 款:**
+
+`L55RB-RX`: Redmi 智能电视 X55 2025 款
+
+`L65RB-RX`: Redmi 智能电视 X65 2025 款
+
+`L75RB-RX`: Redmi 智能电视 X75 2025 款
+
+`L85RB-RX`: Redmi 智能电视 X85 2025 款
 
 **Redmi 智能电视 X Pro:**
 

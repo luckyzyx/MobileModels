@@ -1,4 +1,14 @@
 # CHANGELOG
+## 2024-10-21
+- `apple_en` Add iPad mini (A17 Pro).
+## 2024-10-16
+- `realme_global_en` Add realme P1 Speed 5G.
+## 2024-10-15
+- `honor_global_en` Add HONOR X5b.
+## 2024-10-13
+- `samsung_global_en` Add Galaxy A16 5G.
+## 2024-10-09
+- `honor_global_en` Add several new models.
 ## 2024-09-27
 - `samsung_global_en` Add Galaxy S24 FE.
 ## 2024-09-26
