@@ -432,6 +432,18 @@
 
 `A402XM`: Xiaomi 14T Pro 日本版 (SoftBank)
 
+**[`O3`] Xiaomi 15 (`dada`):**
+
+`24129PN74C`: Xiaomi 15 国行版
+
+`24129PN74G`: Xiaomi 15 国际版
+
+`24129PN74I`: Xiaomi 15 印度版
+
+**[`O2`] Xiaomi 15 Pro (`haotian`):**
+
+`2410DPN6CC`: Xiaomi 15 Pro
+
 ## 小米 Note 系列
 
 **[`X5`] 小米 Note (`virgo`):**
@@ -701,6 +713,18 @@
 `24018RPACC`: Xiaomi Pad 6S Pro 12.4 国行版
 
 `24018RPACG`: Xiaomi Pad 6S Pro 12.4 国际版
+
+**[`O82`] Xiaomi Pad 7 (`uke`):**
+
+`2410CRP4CC`: Xiaomi Pad 7 国行版
+
+`2410CRP4CG`: Xiaomi Pad 7 国际版
+
+**[`O81`] Xiaomi Pad 7 Pro (`muyu`):**
+
+`24091RPADC`: Xiaomi Pad 7 Pro 国行版
+
+`24091RPADG`: Xiaomi Pad 7 Pro 国际版
 
 ## 红米 / Redmi 数字系列
 
@@ -1140,6 +1164,8 @@
 
 **[`C3N`] Redmi 14C (`pond`):**
 
+`2409BRN2CC`: Redmi 14C 国行版
+
 `2409BRN2CA`: Redmi 14C 国际版
 
 `2409BRN2CI`: Redmi 14C 印度版
@@ -1150,7 +1176,7 @@
 
 `2409BRN2CY`: Redmi 14C 国际版 (NFC)
 
-**Redmi 14R 5G (`flame`):**
+**[`C3F`] Redmi 14R 5G (`flame`):**
 
 `2411DRN47C`: Redmi 14R 5G
 
@@ -1664,6 +1690,10 @@
 
 `24094RAD4I`: Redmi Note 14 5G 印度版
 
+**[`O6`] Redmi Note 14 Pro (`obsidian`):**
+
+`24116RACCG`: Redmi Note 14 Pro 国际版
+
 **[`O16`] Redmi Note 14 Pro (`malachite`):**
 
 `24090RA29C`: Redmi Note 14 Pro 国行版
@@ -1826,6 +1856,10 @@
 
 `2407FRK8EC`: Redmi K70 至尊版
 
+**Redmi K80 (`zorn`):**
+
+`24117RK2CC`: Redmi K80
+
 ## 其他红米 Redmi 手机
 
 **[`H3C`] 红米 Pro (`omega`):**
@@ -1927,6 +1961,10 @@
 `23073RPBFG`: Redmi Pad SE 国际版
 
 `23073RPBFL`: Redmi Pad SE 拉美版
+
+**[`M84`] Redmi Pad M7 (`xun`):**
+
+`23073RPBFC`: Redmi Pad M7
 
 **[`N83`] Redmi Pad Pro (`dizi`):**
 
@@ -2042,10 +2080,6 @@
 
 `22041216G`: POCO X4 GT 国际版
 
-**[`L16U`] POCO X4 GT Pro (`xagapro`):**
-
-`22041216UG`: POCO X4 GT Pro 国际版
-
 **[`M17P`] POCO X5 5G (`moonstone`):**
 
 `22111317PG`: POCO X5 5G 国际版
@@ -2160,6 +2194,10 @@
 
 `23076PC4BI`: POCO M6 Pro 5G 印度版
 
+**[`C3FP`] POCO M7 5G (`flame`):**
+
+`24108PCE2I`: POCO M7 5G 印度版
+
 **[`C3M`] POCO C3 (`angelicain`):**
 
 `M2006C3MI`: POCO C3 印度版
@@ -2203,6 +2241,14 @@
 **[`C3UP`] POCO C65 (`gale`):**
 
 `2310FPCA4I`: POCO C65 印度版
+
+**[`C3NP`] POCO C75 (`lake`):**
+
+`2410FPCC5G`: POCO C75 国际版
+
+**[`C3NP`] POCO C75 (`pond`):**
+
+`2410FPCC5I`: POCO C75 印度版
 
 ## POCO 平板
 
