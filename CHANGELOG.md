@@ -1,4 +1,16 @@
 # 更新日志
+## 2024-11-21
+- `huawei_cn` 新增 HUAWEI Mate 70 系列, Mate X6 系列。
+- `lenovo` 增补平板代号。
+- `nubia` 新增 nubia Z70 Ultra。
+## 2024-11-20
+- `vivo_cn` 新增 vivo S20 系列, vivo Y300, iQOO Neo10。
+## 2024-11-19
+- `asus` 新增 ROG Phone 9 系列。
+## 2024-11-16
+- `xiaomi-wear` 增补部分代号。
+## 2024-11-13
+- `nubia` 新增 红魔 10 Pro 系列。
 ## 2024-10-30
 - `honor_cn` 新增 荣耀 Magic7 系列, 荣耀手表 5。
 - `huawei_cn` 新增 HUAWEI MatePad 11.5 2024。

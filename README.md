@@ -50,11 +50,11 @@
 | [smartisan](brands/smartisan.md) | 坚果 (Smartisan) | 全部机型 | ✅ | ❌ | -- |
 | [sony_cn](brands/sony_cn.md) | 索尼 (SONY) | 国内上市的较新款机型 | ❌ | ❌ | -- |
 | [vivo_cn](brands/vivo_cn.md) | vivo | 2018 年起新型号命名方式的国行机型 | ✅ | ❌ | -- |
-| [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ❌  | ⏹  | 英文版 |
+| [vivo_global_en](brands/vivo_global_en.md) | vivo | 2019 年起上市的海外机型 | ❌  | ⏹ | 英文版 |
 | [xiaomi](brands/xiaomi.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | -- |
 | [xiaomi_en](brands/xiaomi_en.md) | 小米 (Xiaomi) | 小米/Redmi/POCO 手机 & 平板等 | ✅ | ✅ | 英文版 |
 | [xiaomi-wear](brands/xiaomi-wear.md) | 小米 (Xiaomi) | 小米/Redmi 手表、手环等穿戴设备 | ⏹ | ✅ | -- |
-| [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ❌ | ❌ | -- |
+| [zhixuan](brands/zhixuan.md) | 华为智选 | U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO | ⏹ | ❌ | -- |
 | [zte](brands/zte.md) | 中兴 (ZTE) | 2017 年起上市的机型 | ❌ | ❌ | -- |
 
 ## 更新日志
@@ -118,6 +118,7 @@
 - [Huawei Firmware Database](https://pro-teammt.ru/en/online-firmware-database-ru/)
 - [XSMS IMEI 数据库](http://xsms.com.ua/phone/imei/all/1)
 - [Android Dumps](https://dumps.tadiphone.dev/dumps)
+- [Lenovo Android タブレット一覧](https://idomizu.dev/archives/20150)
 
 以及各品牌官网、论坛、微博等，恕不一一列出
 

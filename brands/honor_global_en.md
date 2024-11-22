@@ -225,7 +225,7 @@
 
 `LLY-NX1` `LLY-NX3`: HONOR 200 Lite
 
-**HONOR 200 Smart:**
+**HONOR 200 Smart (`Alita`):**
 
 `ALT-NX1` `ALT-NX3`: HONOR 200 Smart
 
@@ -275,6 +275,10 @@
 
 `ALI-NX1` `ALI-NX3`: HONOR Magic6 Lite 5G
 
+**HONOR Magic7 Lite (`BruceP`):**
+
+`BRP-NX1M` `BRP-NX3`: HONOR Magic7 Lite
+
 **HONOR Magic V3:**
 
 `FCP-N49`: HONOR Magic V3
@@ -317,7 +321,7 @@
 
 `JDY-LX3P`: HONOR X6b Plus
 
-**HONOR X6b 5G:**
+**HONOR X6b 5G (`Alita`):**
 
 `ALT-NX3`: HONOR X6b 5G
 
@@ -339,7 +343,11 @@
 
 `CLK-NX1` `CLK-NX2`: HONOR X7b 5G
 
-**HONOR X7c 5G:**
+**HONOR X7c (`Alita`):**
+
+`ALT-LX1` `ALT-LX2` `ALT-LX3`: HONOR X7c
+
+**HONOR X7c 5G (`Alita`):**
 
 `ALT-NX1`: HONOR X7c 5G
 
@@ -379,9 +387,9 @@
 
 `ALI-NX1` `ALI-NX3P`: HONOR X9b 5G
 
-**HONOR X9c 5G (`BruceP`):**
+**HONOR X9c (`BruceP`):**
 
-`BRP-NX1`: HONOR X9c 5G
+`BRP-NX1`: HONOR X9c
 
 **HONOR Pad 8 (`Hendry`):**
 

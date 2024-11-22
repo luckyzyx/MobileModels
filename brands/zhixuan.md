@@ -1,7 +1,7 @@
 # 华为智选手机型号汇总
 
 - 汇总范围: U-MAGIC 优畅享/电信麦芒/NZONE/Hi nova/雷鸟 FFALCON/TD Tech/WIKO
-- codename: ❌
+- codename: ⏹
 
 ## U-MAGIC 优畅享
 
@@ -158,3 +158,7 @@
 **Hi 畅享 70 Pro:**
 
 `BAL-AN20`: Hi 畅享 70 Pro 5G
+
+**Hi 畅享 70 Plus (`Jerry`):**
+
+`JEY-AN00`: Hi 畅享 70 Plus
