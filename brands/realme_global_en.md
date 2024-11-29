@@ -317,6 +317,10 @@
 
 `RMX3853`: realme GT 6T
 
+**realme GT 7 Pro:**
+
+`RMX5011`: realme GT 7 Pro
+
 ## C series
 
 **realme C1:**
@@ -450,6 +454,10 @@
 `RMX3890`: realme C67
 
 `RMX3782`: realme C67 5G
+
+**realme C75:**
+
+`RMX3941`: realme C75
 
 ## Note series
 

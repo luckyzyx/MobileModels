@@ -203,6 +203,22 @@
 
 `ALN-AL10`: HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师
 
+**HUAWEI Mate 70 (`Celestial`):**
+
+`CLS-AL00`: HUAWEI Mate 70
+
+**HUAWEI Mate 70 Pro (`Pillar`):**
+
+`PLR-AL00`: HUAWEI Mate 70 Pro
+
+**HUAWEI Mate 70 Pro+ (`Pillar+`):**
+
+`PLA-AL10`: HUAWEI Mate 70 Pro+
+
+**HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师 (`ULTIMATE DESIGN`):**
+
+`PLU-AL10`: HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师
+
 **HUAWEI Mate X (`Tahiti`):**
 
 `TAH-AN00`: HUAWEI Mate X
@@ -234,18 +250,6 @@
 **HUAWEI Mate XT ULTIMATE DESIGN 非凡大师 (`Greenland`):**
 
 `GRL-AL10`: HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
-
-**HUAWEI Mate 70 (`Celestial`):**
-
-`CLS-AL00`: HUAWEI Mate 70
-
-**HUAWEI Mate 70 Pro (`Pillar`):**
-
-`PLR-AL00`: HUAWEI Mate 70 Pro
-
-**HUAWEI Mate 70 Pro+ (`Pillar+`):**
-
-`PLA-AL10`: HUAWEI Mate 70 Pro+
 
 **HUAWEI Mate X6:**
 
@@ -1148,6 +1152,12 @@
 `MRO-W10`: HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (16GB+1TB)
 
 `MRO-AL10`: HUAWEI MatePad Pro 12.2 英寸 全网通版 (16GB+1TB)
+
+**HUAWEI MatePad Pro 13.2 英寸:**
+
+`WEB-W00`: HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版
+
+`WEB-W10`: HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版 (16GB+1TB)
 
 ## HUAWEI MatePad Air 系列
 
@@ -2219,7 +2229,9 @@
 
 **HUAWEI WATCH ULTIMATE DESIGN 非凡大师:**
 
-`CLB-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师
+`CLB-B19`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
+
+`EDD-B39`: HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
 
 **HUAWEI WATCH GT:**
 
